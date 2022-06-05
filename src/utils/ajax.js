@@ -2,9 +2,10 @@
  * @Author: 徐凯
  * @Date: 2022-06-04 14:17:07
  * @LastEditors: 青枫
- * @LastEditTime: 2022-06-05 21:10:03
- * @FilePath: \test\src\utils\ajax.js
+ * @LastEditTime: 2022-06-05 21:48:04
+ * @FilePath: \xk-template\src\utils\ajax.js
  */
+
 import React from 'react';
 import ReactDom from 'react-dom';
 import axios from 'axios';
